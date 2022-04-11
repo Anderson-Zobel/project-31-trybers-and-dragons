@@ -1,4 +1,4 @@
-import Energy from '../../src/interface/Energy';
+import Energy from '../../src/Energy';
 
 let x: Energy = {
   amount: 10,

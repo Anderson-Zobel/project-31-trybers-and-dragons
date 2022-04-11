@@ -1,3 +1,3 @@
-import { EnergyType } from '../../src/interface/Energy';
+import { EnergyType } from '../../src/Energy';
 
 let x: EnergyType = 'mana';
