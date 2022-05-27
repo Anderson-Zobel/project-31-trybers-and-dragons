@@ -3,8 +3,6 @@
 
 # Habilidades
 
-Neste projeto, você será capaz de:
-
 - Exercitar o conhecimento dos pilares da `Programação Orientada a Objetos`: `Herança`, `Abstração`, `Encapsulamento` e `Polimorfismo`;
 - Exercitar a utilização de `Composição`;
 - Exercitar a criação e utilização de `Interfaces`;
