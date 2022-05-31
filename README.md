@@ -1,6 +1,8 @@
 # [Back-end] Trybers and Dragons
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcinepop.com.br%2Fdungeons-confira-o-logo-341843%2F&psig=AOvVaw3cX9VTpmJiPUnKJysW3EhY&ust=1654124046019000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPC39MPqivgCFQAAAAAdAAAAABAJ" widt="600">
+
+
+ <img align="center" alt="D&D" width="600" src="https://images.ctfassets.net/swt2dsco9mfe/G8hY5RaUUgMiwctolsI0K/1496009a9a957296d768d86e7503b5ca/157997_1920x1342.jpg?q=70" /> 
 
 ## Habilidades 🏹 
 
